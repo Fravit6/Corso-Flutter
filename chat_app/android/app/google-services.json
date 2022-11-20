@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283873309757",
+    "project_id": "flutter-chat-7fd5f",
+    "storage_bucket": "flutter-chat-7fd5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283873309757:android:a0d22393d0c230326ae654",
+        "android_client_info": {
+          "package_name": "com.fravit.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283873309757-u5q5rtbhh32679pl0kffaf67n69manhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa3Zz0L_SBDjmcBleiPbvvwtyNCB9PVVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283873309757-u5q5rtbhh32679pl0kffaf67n69manhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
